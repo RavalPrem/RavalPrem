@@ -1,7 +1,4 @@
 <h2 align="center">Hi , I am a 2nd year bsc.IT (Dual-speacialization) student in GLS University who loves coding. I learned  c ,c++ ,core java programming language. For Front-end I learned html,css, tailwindcss, javascript and For Database I learned mysql.</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravalprem&label=Profile%20views&color=0e75b6&style=flat" alt="ravalprem" /> </p>
-
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravalprem" alt="ravalprem" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
