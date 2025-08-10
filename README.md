@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2>Programming language</h2>
+<h2>Programming languages</h2>
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c logo"  />
   <img width="12" />
@@ -29,6 +29,11 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss logo" />
 
+</p>
+
+<h2>DataBase</h2>
+<p algin="left"> 
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" />
 </p>
 
 <h2>Operating Systems</h2>
