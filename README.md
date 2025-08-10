@@ -48,3 +48,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravalprem&show_icons=true&locale=en" alt="ravalprem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravalprem&" alt="ravalprem" /></p>
+
+<h2>The wakatime Embeddable Chart</h2>
+<p align="left">
+  <img src="https://wakatime.com/share/@778d0c34-c220-4a3b-8752-81be6fc51bbf/cef5cf99-643c-4acc-9ac2-99ee88087f3e.svg" height="500px">
+</p>
