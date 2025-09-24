@@ -15,6 +15,10 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"/>
+  <img width="12" />
+
+
     
 <h2>Front-end languages</h2>
 <p algin="left"> 
