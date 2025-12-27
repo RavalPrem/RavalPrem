@@ -28,8 +28,11 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo"  />
     <img width="12" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss logo" />
+</p>
 
+<h2>Frameworks</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss logo" />
 </p>
 
 <h2>DataBase</h2>
@@ -49,8 +52,5 @@
 </p>
    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravalprem&show_icons=true&locale=en&layout=compact" alt="ravalprem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravalprem&show_icons=true&locale=en" alt="ravalprem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravalprem&" alt="ravalprem" /></p>
